@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": "worker_001",
+    "historical_earnings": [200, 250, 180, 300, 220],
+    "hours_worked": [8, 9, 7, 10, 8],
+    "location": "Mumbai",
+    "risk_score": 0.7
+  },
+  {
+    "user_id": "worker_002",
+    "historical_earnings": [180, 210, 190, 260, 200],
+    "hours_worked": [7, 8, 7, 9, 7],
+    "location": "Delhi",
+    "risk_score": 0.5
+  }
+]
+
